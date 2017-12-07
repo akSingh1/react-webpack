@@ -1,4 +1,4 @@
-Seed Project with React 16, React Router 3, Webpack 3 
+PWA Seed Project with React 16, React Router 3, Webpack 3, Service Worker
 
 Steps to run:
 1. Make sure you have node version 6.2.2 or above
